@@ -3,8 +3,9 @@
  * (see workersafety.js for analogs in web workers)
  *
  * Copyright (c) 2012, Fritz Obermeyer
- * Licensed under the MIT license:
- * http://www.opensource.org/licenses/mit-license.php
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://www.opensource.org/licenses/MIT
+ * http://www.opensource.org/licenses/GPL-2.0
  */
 
 //------------------------------------------------------------------------------

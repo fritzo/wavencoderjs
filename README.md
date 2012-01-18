@@ -1,8 +1,11 @@
 # WavEncoder #
 
-A fast cross-browser riff wave encoder for real-time audio synthesis in HTML5.
+WavEncoder is a fast cross-browser riff wave encoder for real-time audio synthesis in HTML5.
 Works in Web Workers and in the main window
 (in contrast to encoders using window.btoa).
+
+Dual licensed under the [MIT](http://www.opensource.org/licenses/MIT)
+or [GPL Version 2](http://www.opensource.org/licenses/GPL-2.0) licenses.
 
 ## Examples ##
 
