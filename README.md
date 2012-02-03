@@ -11,7 +11,6 @@ or [GPL Version 2](http://www.opensource.org/licenses/GPL-2.0) licenses.
 
 To play 1 sec of noise in the main window, we can
 
-    <script type='text/javascript' src='safety.js'></script>
     <script type='text/javascript' src='wavencoder.js'></script>
     <script type='text/javascript'>
 
@@ -30,7 +29,6 @@ To play 1 sec of noise in the main window, we can
 WavEncoder objects are optimized to create many samples of the same length.
 A typical use case is to generate a set of tones, say in a web worker
 
-    includeScripts('workersafety.js');
     includeScripts('wavencoder.js');
     
     var sampleRateHz = 44100;
